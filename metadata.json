@@ -1,0 +1,6 @@
+{
+  "name": "FTTH Map Maker & Infrastructure Tagging",
+  "description": "Presisi tinggi mobile-first tagging infrastruktur FTTH (Tiang & FAT) dengan citra satelit, anti-drift crosshair, offline storage, dan ekspor KML/CSV/GeoJSON.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
